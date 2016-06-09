@@ -1,0 +1,19 @@
+{
+  "name": "implicity",
+  "version": "0.0.1",
+  "description": "Implicity is the API backend for Simplicity, an iOS framework for easy mobile authentication via external providers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimplicityMobile/Implicity.git"
+  },
+  "author": "Edward Jiang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SimplicityMobile/Implicity/issues"
+  },
+  "homepage": "https://github.com/SimplicityMobile/Implicity#readme"
+}
