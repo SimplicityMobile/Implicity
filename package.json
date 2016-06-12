@@ -18,6 +18,7 @@
   "homepage": "https://github.com/SimplicityMobile/Implicity#readme",
   "dependencies": {
     "express": "^4.13.4",
-    "express-stormpath": "^3.1.2"
+    "express-stormpath": "^3.1.2",
+    "require-all": "^2.0.0"
   }
 }
