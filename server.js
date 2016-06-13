@@ -10,5 +10,5 @@ app.use('/', implicity.web)
 
 var port = 3000 || process.env.PORT
 app.listen(port, function() {
-	console.log('Implicity server started on port ' + port)
+  console.log('Implicity server started on port ' + port)
 })
