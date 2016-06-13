@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/SimplicityMobile/Implicity#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.13.4",
     "express-stormpath": "^3.1.2",
+    "request": "^2.72.0",
     "require-all": "^2.0.0",
     "stormpath": "^0.18.2"
   }
