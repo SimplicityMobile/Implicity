@@ -1,14 +1,14 @@
 'use strict'
 
-var express = require('express')
-var implicity = require('./index')
+let express = require('express')
+let implicity = require('./index')
 
-var app = express()
+let app = express()
 
 app.use('/api', implicity.api)
 app.use('/', implicity.web)
 
-var port = 3000 || process.env.PORT
+let port = 3000 || process.env.PORT
 app.listen(port, function() {
   console.log('Implicity server started on port ' + port)
 })
